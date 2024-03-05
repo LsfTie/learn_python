@@ -1,1 +1,1 @@
-study python
+print('Hello World!')
